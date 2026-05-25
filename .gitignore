@@ -1,0 +1,4 @@
+qnote
+*.o
+*.swp
+__pycache__/
