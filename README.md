@@ -6,7 +6,7 @@ Press a hotkey (default: Super+N) from anywhere to pop open a note window,
 type your note, press Ctrl+S to save. It appends timestamped entries to a
 per-day markdown journal at `~/.qnote/YYYY-MM-DD.md`.
 
-Single binary, ~40 KB, no runtime dependencies beyond libX11 and libXft.
+Single binary, ~43 KB, no runtime dependencies beyond libX11 and libXft.
 
 ## Requirements
 
