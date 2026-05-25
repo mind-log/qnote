@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=qnote
+Comment=Lightweight X11-based note-taking tool
+Exec=qnote
+Icon=accessories-notes
+Terminal=false
+Categories=Utility;
